@@ -21,9 +21,6 @@ app.listen(PORT, () => {
     }
     else if(e.status == "error"){
       if(!production){ console.log(e.message); }
-      else{
-        // Give frontend the failure notice.
-      }
     }
   });
 });
