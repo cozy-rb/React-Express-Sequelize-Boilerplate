@@ -1,4 +1,4 @@
-# React-Express-Sequelize-Heroku
+# React-Express-Sequelize
 A Heroku-ready boilerplate that uses the following technologies:
 - React
 - Express
